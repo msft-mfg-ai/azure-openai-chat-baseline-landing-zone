@@ -33,7 +33,7 @@ on:
       parameterFile:
         description: 'Parameter File'
         required: true
-        default: 'main.gh.bicepparam'
+        default: 'main.bicepparam'
       createResourceGroup:
         description: Create Resource Group?
         type: boolean
